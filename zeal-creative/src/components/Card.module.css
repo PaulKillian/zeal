@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
+
+.card {
+	width: 80.1%;
+	height: auto;
+	position: relative;
+}
+
+.positionText {
+	font-size: 1.7vw;
+	color: white;
+  position: absolute;
+  top: 45%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+	font-family: 'Rajdhani', sans-serif;
+}
+
+.main {
+	background-color: #4281ac70;
+}
