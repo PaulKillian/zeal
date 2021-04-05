@@ -77,7 +77,7 @@ small, .text_small {font-size: 0.8rem;}
 } */
 
 .shadowed {
-filter: drop-shadow(2rem 0.20rem 2rem rgba(0, 0, 0, 0.2));}
+filter: drop-shadow(2rem 0.20rem 2.1rem rgba(0, 0, 0, 0.2));}
 
 .top {
   z-index: 1;
