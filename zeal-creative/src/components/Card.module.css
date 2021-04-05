@@ -1,9 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
-
-.card {
-	width: 80.1%;
-	height: auto;
-	position: relative;
+.motto {
+	background-color: #EAFAF4;
+	height: 40vh;
+	border: none;
+  border-radius: 12px;
 }
 
 .positionText {
@@ -13,9 +12,15 @@
   top: 45%;
   left: 60%;
   transform: translate(-50%, -50%);
-	font-family: 'Rajdhani', sans-serif;
 }
 
 .main {
-	background-color: #4281ac70;
+  background: linear-gradient(to top right,
+    #571881 50%, #40a7f7 50% 100%);
+	height: 100vh;
+}
+.main1 {
+  background: linear-gradient(to top right,
+    #40a7f7 50%, #571881 50% 100%);
+	height: 100vh;
 }
